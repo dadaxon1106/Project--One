@@ -12,7 +12,7 @@ class ProfilePage extends StatelessWidget {
               Navigator.pop(context);
             },
             icon: Icon(Icons.arrow_back_ios)),
-        title: const Text("Profile Page"),
+        title: const Text(" Profile Page"),
         backgroundColor: Colors.blueAccent,
       ),
       body: Center(
